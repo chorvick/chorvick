@@ -1,7 +1,13 @@
-### Hi there 👋
+### Cliff Horvick 
+
+### I’m currently working on a full stack development program through the University Of Pennsylvania.
+
+## I am working hard every day on html, css, javascript, jquery and adding new technologies to my portfolio almost weekly.
 
 <!--
 **chorvick/chorvick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+### I’m currently working on a full stack development program through the University Of Pennsylvania.
 
 Here are some ideas to get you started:
 
