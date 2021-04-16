@@ -2,7 +2,7 @@
 
 ### I’m currently working on a full stack development program through the University Of Pennsylvania.
 
-## I am working hard every day on learnin new technologies. Expected graduation mid June 2021 as Full Stack Developer.
+## I am working hard every day on learning new technologies. Expected graduation mid June 2021 as Full Stack Developer.
 
 I have some examples of my work. 
 
