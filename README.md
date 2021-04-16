@@ -2,9 +2,14 @@
 
 ### I’m currently working on a full stack development program through the University Of Pennsylvania.
 
-## I am working hard every day on html, css, javascript, jquery and adding new technologies to my portfolio almost weekly.
+## I am working hard every day on learnin new technologies. Expected graduation mid June 2021 as Full Stack Developer.
 
 I have some examples of my work. 
+
+
+This application dogvscat was done with two fellow student collaborators. Technologies used include html, css, javascript, Handlebars, Javascript, Sequelize, Dot Env, also various other NPM Packages (including but not limited to) Node, Express, MySql2, Bcrypt, Font Awesome and Heroku for deployment. 
+Deployed Project [Vinyl Addict](https://salty-harbor-76521.herokuapp.com/)
+![Screenshots Vinyl Addict](https://raw.githubusercontent.com/chorvick/ResponsivePortfolio/main/assets/v3.png) 
 
 This application dogvscat was done with two fellow student collaborators. Technologies used include html, css, javascript, jquery, bulma, animate css, the dog open api and cat open api. 
 Deployed Project [DogvsCat](https://chorvick.github.io/dogvscat/index.html)
@@ -13,10 +18,6 @@ Deployed Project [DogvsCat](https://chorvick.github.io/dogvscat/index.html)
 This application is a workday scheduler. Technologies used include html, css, bootstrap, javascript, moment js and jquery. 
 [Workday Scheduler -- Click to launch](https://chorvick.github.io/workdayscheduler/)
 ![workdaysample](https://user-images.githubusercontent.com/52890172/105667117-bdfe2c00-5ea8-11eb-8bbe-ae6ea3f1c536.png)
-
-This Weather Dashboard application was built by me using html, css, bootstrap, javascript, jquery, the open weather api and moment js.
-[Deployed Application](https://chorvick.github.io/WeatherDashboard/index.html)
-![weatherdashboard image](https://raw.githubusercontent.com/chorvick/WeatherDashboard/main/assets/screenshot/s1.png)
 
 This application is a timed quiz to test a users knowledge on javascript. Technologies used included html, css, and javascript. 
 [Click here to try the Code Quiz](https://chorvick.github.io/codequiz/index.html)
