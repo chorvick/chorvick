@@ -25,7 +25,7 @@ This application is a workday scheduler. Technologies used include html, css, bo
 This application is a timed quiz to test a users knowledge on javascript. Technologies used included html, css, and javascript. 
 [Click here to try the Code Quiz](https://chorvick.github.io/codequiz/index.html)
 ![ss1](https://user-images.githubusercontent.com/52890172/105093709-2dbb8380-5a71-11eb-908f-7ebaf1677752.png)
-[Repository] (https://github.com/chorvick/codequiz)
+[Repository](https://github.com/chorvick/codequiz)
 
 <!--
 **chorvick/chorvick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
