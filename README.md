@@ -9,7 +9,7 @@
 I have some examples of my work. 
 
 
-This application Vinyl Addict was done with two fellow student collaborators. Technologies used include html, css, javascript, Handlebars, Javascript, Sequelize, Dot Env, also various other NPM Packages (including but not limited to) Node, Express, MySql2, Bcrypt, Font Awesome and Heroku for deployment. 
+This application Vinyl Addict was done with two fellow student collaborators. Technologies used include html, css, Handlebars, Javascript, Sequelize, Dot Env, also various other NPM Packages (including but not limited to) Node, Express, MySql2, Bcrypt, Font Awesome and Heroku for deployment. 
 Deployed Project [Vinyl Addict](https://salty-harbor-76521.herokuapp.com/)
 ![Screenshots Vinyl Addict](https://raw.githubusercontent.com/chorvick/ResponsivePortfolio/main/assets/v3.png) 
 [Repository](https://github.com/chorvick/v)
