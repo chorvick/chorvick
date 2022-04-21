@@ -5,7 +5,7 @@
 ## I am working hard every day on learning new technologies.  
 
 
-## Currently learning python and taking a dev ops. course
+## Currently learning python and taking a dev ops. course.
 
 # Reach me by e mail at: chorvickprocode@gmail.com
 
