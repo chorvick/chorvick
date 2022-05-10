@@ -2,10 +2,12 @@
 
 ### I recently graduated from a full stack development program through the University Of Pennsylvania.
 
-## I am working hard every day on learning new technologies.  
+## I am busy learning new technologies.  
 
 
 ## Currently learning python and taking a dev ops. course.
+
+## Learning Docker and Cloud Computing
 
 # Reach me by e mail at: chorvickprocode@gmail.com
 
